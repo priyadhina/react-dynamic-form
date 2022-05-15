@@ -1,3 +1,3 @@
-# react-1z4ewi
+# react-dynamic-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-1z4ewi)
+Sample React application with Material UI.

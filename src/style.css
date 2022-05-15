@@ -3,7 +3,7 @@ h1 {
   color: #1976d2;
 }
 .parent-container {
-  max-width: 800px;
+  max-width: 800px !important;
 }
 label {
   text-transform: capitalize;

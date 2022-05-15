@@ -1,6 +1,6 @@
 # react-dynamic-form
 
-Simple dynamic form application with React and Material UI.
+Simple dynamic form application with React, Redux and Material UI.
 
 **Getting Started**
 
